@@ -56,11 +56,7 @@ int registro() // Função responsável por cadastrar usuários
    fclose(file);//fecha o arquivo
    
    system("pause");
-   
-   
-   
-   
-  
+    
 }
 
 int consultar()
@@ -114,10 +110,7 @@ int deletar()
 			
 	}
 		
-	
-	
-	
-	
+		
 }
 
 int main()
@@ -190,7 +183,3 @@ int main()
 
 
 }
-     
-  
-	  
-
